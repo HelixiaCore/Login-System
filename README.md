@@ -7,4 +7,4 @@ A simple command-line login and registration system built with pure Python.
 - User login with validation
 
 ## 🛠 Technologies
-- Python 3.x
+- Python 3.14
